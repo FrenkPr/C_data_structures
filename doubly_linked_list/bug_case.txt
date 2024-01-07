@@ -1,0 +1,86 @@
+Scream
+Scream scream scream
+Test001
+Avenged Sevenfold
+The Offspring
+Test002
+
+rand1_elem: Scream scream scream
+rand2_elem: Avenged Sevenfold
+
+rand1_elem next: The Offspring
+rand1_elem prev: Test001
+rand2_elem next:Test001
+rand2_elem prev:Scream
+
+Scream
+Avenged Sevenfold
+Test001
+Scream scream scream
+The Offspring
+Test002
+
+rand1_elem: Avenged Sevenfold
+rand2_elem: The Offspring
+
+rand1_elem next: Test002
+rand1_elem prev: Scream scream scream
+rand2_elem next:Test001
+rand2_elem prev:Scream
+
+Scream
+The Offspring
+Test001
+Scream scream scream
+Avenged Sevenfold
+Test002
+
+rand1_elem: Test001
+rand2_elem: Scream scream scream
+
+rand1_elem next: Avenged Sevenfold
+rand1_elem prev: Scream scream scream
+rand2_elem next:Test001
+rand2_elem prev:The Offspring
+
+Scream
+The Offspring
+Scream scream scream
+Test001
+Avenged Sevenfold
+Test002
+
+rand1_elem: Scream
+rand2_elem: Test001
+
+rand1_elem next: Avenged Sevenfold
+rand1_elem prev: Scream scream scream
+rand2_elem next:The Offspring
+
+Test001
+The Offspring
+Scream scream scream
+Scream
+Avenged Sevenfold
+Test002
+
+rand1_elem: The Offspring
+rand2_elem: Avenged Sevenfold
+
+rand1_elem next: Test002
+rand1_elem prev: Scream
+rand2_elem next:Scream scream scream
+rand2_elem prev:Scream
+
+Test001
+Avenged Sevenfold
+Scream scream scream
+Scream
+The Offspring
+Test002
+
+
+SHUFFLE ELEMENTS:
+Test001
+The Offspring
+Test002
