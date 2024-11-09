@@ -129,5 +129,7 @@ int main(int argc, char **argv)
 
     set_find(&myset, "XYZ");
 
+    printf("Press Enter key to continue");
+    getchar();
     return 0;
 }

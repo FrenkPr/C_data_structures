@@ -179,5 +179,7 @@ int main()
     set_remove(string_set_header, "Ciaooooooooooo");
     set_find(string_set_header, "Ciaooooooooooo");
 
+    printf("Press Enter key to continue");
+    getchar();
     return 0;
 }

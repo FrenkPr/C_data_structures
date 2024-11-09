@@ -174,5 +174,7 @@ int main()
     // set_test();
     dict_test();
 
+    printf("Press Enter key to continue");
+    getchar();
     return 0;
 }

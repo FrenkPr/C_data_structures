@@ -563,5 +563,7 @@ int main()
         count++;
     }
 
+    printf("\nPress Enter key to continue");
+    getchar();
     return 0;
 }

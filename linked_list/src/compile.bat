@@ -1,5 +1,7 @@
 @REM @echo off
 
-clang.exe -o bin/dict.exe ^
+mkdir "../bin"
+
+clang.exe -o ../bin/linked_list.exe ^
     -Xlinker /subsystem:console ^
     *.c

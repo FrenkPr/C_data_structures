@@ -217,5 +217,7 @@ int main()
     //     string_elems_header = (string_item *)string_elems_header->node.next;
     // }
 
+    printf("\nPress Enter key to continue");
+    getchar();
     return 0;
 }
